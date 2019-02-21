@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Speed Opara</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("https://i.imgur.com/8khXXr6.jpg");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: ;
+    }
+    img {
+      padding-top: 5px;
+      border-radius: 50%;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red; 
+      color: white;
+    }
+    input[placeholder="Your email..."] {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <img src="https://i.imgur.com/iQgU1IWt.jpg">
+  <p>Hi There! I'm Speed, a Lagos-based Professional Services Consultant.</br>
+  Say hello!
+  </p>
+  <input type="email" placeholder="Your email...">
+  <input type="submit">
+</body>
+</html>
